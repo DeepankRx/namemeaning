@@ -100,7 +100,7 @@ if choice==1:
 		elif char1=="W":
 			wlist=["Wonderful","Warm","Wild","Wonderfull","Weak"]
 			print(name1[i],":\t",end=" ")
-			print(random.choice(w,list))
+			print(random.choice(wlist))
 		elif char1=="X":
 			xlist=["Xenophobic","Xenial","Xenodolnial"]
 			print(name1[i],":\t",end=" ")
